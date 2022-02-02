@@ -7,13 +7,13 @@
     "test": "test"
   },
   "dependencies": {
-    "@kartotherian/blend": "^2.0.1",
+    "@kartotherian/blend": "github:VadimKovalenkoSNF/node-blend#node12",
     "err-code": "0.1.2",
     "maki": "0.5.0",
     "xtend": "~3.0.0"
   },
   "devDependencies": {
-    "@kartotherian/assert-http": "^2.0.0",
+    "@kartotherian/assert-http": "github:VadimKovalenkoSNF/assert-http#node12",
     "tap": "~0.4.8"
   },
   "scripts": {
